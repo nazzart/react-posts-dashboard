@@ -6,7 +6,11 @@ The idea was to load all comments by clicking the button under each post. It is 
 
 ## To start the project
 
-In the project directory, you can run:
+In the project directory, you have to run:
+
+### `npm install`
+
+It will install all dependencies for the project.
 
 ### `npm start`
 
